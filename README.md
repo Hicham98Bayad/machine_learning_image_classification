@@ -48,4 +48,5 @@ in the RGB space, the color histogram in the HSV space, the statistical measures
 of the GLCM matrix for the texture and the Hu moments for the shape (see workshop
 CBIR). This feature matrix (Features) will be passed with the labels (classes) to the
 classifier to build a classification model that will be used for prediction (see Figure.
-1)
+1) <br/> <br/>
+note: the prediction results of different learning methods exist in the 'result' directory
