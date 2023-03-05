@@ -1,0 +1,21 @@
+,imagesNane,SVM Prediction,KNN Prediction,TD Prediction
+0,DB2C/DataToPredict/29011.jpg,Obj_car,Obj_car,Obj_car
+1,DB2C/DataToPredict/29013.jpg,Obj_car,Obj_car,Obj_car
+2,DB2C/DataToPredict/29055.jpg,Obj_car,Obj_car,Obj_car
+3,DB2C/DataToPredict/354001.jpg,Obj_car,Obj_car,Obj_car
+4,DB2C/DataToPredict/354053.jpg,Obj_car,Obj_car,Obj_car
+5,DB2C/DataToPredict/447012.jpg,Obj_car,Obj_car,Obj_car
+6,DB2C/DataToPredict/447063.jpg,Obj_car,Obj_car,Obj_car
+7,DB2C/DataToPredict/521022.jpg,Obj_car,Obj_car,Obj_ship
+8,DB2C/DataToPredict/521079.jpg,Obj_car,Obj_car,Obj_car
+9,DB2C/DataToPredict/521090.jpg,Obj_car,Obj_car,Obj_car
+10,DB2C/DataToPredict/535000.jpg,Obj_car,Obj_car,Obj_ship
+11,DB2C/DataToPredict/535010.jpg,Obj_ship,Obj_car,Obj_ship
+12,DB2C/DataToPredict/535015.jpg,Obj_car,Obj_car,Obj_ship
+13,DB2C/DataToPredict/535031.jpg,Obj_ship,Obj_car,Obj_ship
+14,DB2C/DataToPredict/535041.jpg,Obj_ship,Obj_car,Obj_ship
+15,DB2C/DataToPredict/535078.jpg,Obj_car,Obj_car,Obj_car
+16,DB2C/DataToPredict/535082.jpg,Obj_ship,Obj_car,Obj_ship
+17,DB2C/DataToPredict/535091.jpg,Obj_ship,Obj_ship,Obj_ship
+18,DB2C/DataToPredict/535095.jpg,Obj_car,Obj_car,Obj_car
+19,DB2C/DataToPredict/535099.jpg,Obj_ship,Obj_car,Obj_ship
